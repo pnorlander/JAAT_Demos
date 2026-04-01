@@ -22,3 +22,19 @@ jupyter notebook OSHA_TaskMatch_Demo.ipynb
 ## Data
 
 The included sample (`data/accident_abstracts_sample.csv`) contains 1,000 randomly selected OSHA accident investigation abstracts. The full dataset (111,000+ investigations) is available from [OSHA's public data](https://www.osha.gov/data).
+
+## Acknowledgements
+
+This project has received generous support from the National Labor Exchange, the Russell Sage Foundation, the Washington Center for Equitable Growth.
+
+### Software and Data Citation
+If you find `JAAT` useful in your research, please consider citing our working paper that introduces many of the abovementioned modules:
+
+```
+@article{meisenbacher2025extracting,
+  title={Extracting O* NET Features from the NLx Corpus to Build Public Use Aggregate Labor Market Data},
+  author={Meisenbacher, Stephen and Nestorov, Svetlozar and Norlander, Peter},
+  journal={arXiv preprint arXiv:2510.01470},
+  year={2025}
+}
+```
