@@ -10,6 +10,7 @@ Demonstrations of [JAAT](https://github.com/Job-Ad-Research-at-QSB-LUC/JAAT) (Jo
 |------|--------|------|-------|
 | [OSHA Accident Narratives](osha_accident_taskmatch/) | TaskMatch | 1,000 OSHA investigations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pnorlander/JAAT_Demos/blob/main/osha_accident_taskmatch/OSHA_TaskMatch_Demo.ipynb) |
 | [TitleMatch Validation](titlematch_validation/) | TitleMatch | 65,645 LCA title-code pairs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pnorlander/JAAT_Demos/blob/main/titlematch_validation/TitleMatch_Validation.ipynb) |
+| [AI Curriculum Analysis](ai_curriculum/) | SkillMatch, TaskMatch, AIMatch | 113 AI course syllabi | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pnorlander/JAAT_Demos/blob/main/ai_curriculum/AI_Curriculum_JAAT_Analysis.ipynb) |
 
 ## Acknowledgements
 
