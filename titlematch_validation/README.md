@@ -47,7 +47,7 @@ Many titles map to multiple SOC codes. Accuracy is evaluated under four frames:
 
 | Tool | Strict | Any-match | Weighted |
 |------|--------|-----------|----------|
-| SOCcer | 36.2% | 48.3% | 38.6% |
+| SOCcer | 36.2% | 48.3% | 49.1% |
 | TitleMatch | 31.7% | 42.9% | 47.8% |
 | NIOCCS | 30.2% | 41.5% | 47.3% |
 | SOCkit | 20.8% | 31.8% | 29.8% |
@@ -56,9 +56,9 @@ Many titles map to multiple SOC codes. Accuracy is evaluated under four frames:
 
 | Tool | Strict | Any-match | Weighted |
 |------|--------|-----------|----------|
+| SOCcer | 50.2% | 62.1% | 61.5% |
 | TitleMatch | 48.8% | 58.9% | 62.9% |
 | NIOCCS | 47.1% | 59.3% | 62.9% |
-| SOCcer | 39.1% | 51.3% | 48.8% |
 | SOCkit | 38.0% | 48.4% | 52.0% |
 
 **2-Digit SOC (Major Group)**
@@ -66,7 +66,7 @@ Many titles map to multiple SOC codes. Accuracy is evaluated under four frames:
 | Tool | Strict | Any-match | Weighted |
 |------|--------|-----------|----------|
 | NIOCCS | 65.1% | 75.4% | 77.2% |
-| SOCcer | 63.5% | 77.1% | 78.9% |
+| SOCcer | 63.5% | 72.5% | 71.0% |
 | TitleMatch | 61.6% | 70.1% | 72.6% |
 | SOCkit | 51.6% | 59.6% | 62.6% |
 
