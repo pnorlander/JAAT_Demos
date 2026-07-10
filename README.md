@@ -2,7 +2,7 @@
 
 Demonstrations of [JAAT](https://github.com/Job-Ad-Research-at-QSB-LUC/JAAT) (Job Ad Analysis Toolkit) applied to different public text sources. These notebooks show 1) how to use JAAT, 2) how JAAT tools are validated when public sources of data are available, and 3) how JAAT's modules generalize beyond job advertisements to other related text.
 
-**Try JAAT interactively on 1 Job Posting at a Time:** [JAAT Demo on Hugging Face](https://huggingface.co/spaces/pnorlander/JAAT_DEMO)
+**Try JAAT interactively on 1 Job Posting at a Time:** [JAAT Demo](https://jaat.app/)
 
 ## Demos
 
